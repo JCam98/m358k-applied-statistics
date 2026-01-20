@@ -7,7 +7,7 @@ How can universities improve their graduation rates? In this project, I act as a
 The Objective? 
 Construct a predictive model for College Graduation Rate using quantitative university data.
 
-## 📺 [View the Project Walkthrough Here]([https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=riIhCS2QVYc])
+## 📺 [View the Project Walkthrough Here](https://www.youtube.com/watch?v=https://www.youtube.com/watch?v=riIhCS2QVYc)
 
 ## Workflow
 
